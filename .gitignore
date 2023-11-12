@@ -362,3 +362,5 @@ MigrationBackup/
 ML-For-Beginners.Rproj
 
 6-NLP/data/Hotel_Reviews.csv
+6-NLP/data/Hotel_Reviews_Filtered.csv
+6-NLP/data/Hotel_Reviews_NLP.csv
